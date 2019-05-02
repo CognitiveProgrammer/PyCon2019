@@ -46,5 +46,4 @@ ___Name: Deepak K Gupta (a.k.a Daksh)___
 - Chapter - 8: Unsupervised Learning - K-Mean Clustering
 - Chapter - 9: Managing Real World M.L.Data - Using Pandas
 - Chapter - 10: K-Mean Clustering - Real World Data & Pandas
-- Chapter - 11: Excrcise - Mapping Application 
-
+- Chapter - 11: Exercise - Mapping Application 
