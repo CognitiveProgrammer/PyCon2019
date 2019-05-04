@@ -1,6 +1,8 @@
 ### #PyCon2019 : Hello World of Machine Learning Using Scikit Learn
 
-This tutorial will be presented at PyCon2019 on May 2nd, 2019
+This tutorial was presented at PyCon2019 on May 2nd, 2019
+
+YouTube Video link:  https://www.youtube.com/watch?v=bCDcI8SdjD8 
 
 GitHub repository: http://bit.ly/PyCon_2019
 
