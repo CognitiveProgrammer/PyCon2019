@@ -41,7 +41,7 @@ ___Name: Deepak K Gupta (a.k.a Daksh)___
 - [Chapter - 1: A.I., M.L., and D.L.](https://github.com/CodesBay/PyCon2019/blob/master/Chapter%20-%201/%5B1%2C2%5D%20-%20The%20need%20of%20M.L.ipynb)
 - [Chapter - 2: Machine Learning Algorithms - Supervised, UnSupervised & Reinforcement](https://github.com/CodesBay/PyCon2019/blob/master/Chapter%20-%202/%5B1%2C2%5D%20-%20The%20need%20of%20M.L.ipynb)
 - [Chapter - 3: Scikit-Learn - Introduction](https://github.com/CodesBay/PyCon2019/blob/master/Chapter%20-%203/%5B3%5D%20-%20Introduction%20to%20Scikit-Learn.ipynb)
-- [Chapter - 4: Machine Learning Prerequisite - NumPy and Matplotlib] (https://github.com/CodesBay/PyCon2019/tree/master/Chapter%20-%204)
+- [Chapter - 4: Machine Learning Prerequisite - NumPy and Matplotlib](https://github.com/CodesBay/PyCon2019/tree/master/Chapter%20-%204)
 - [Chapter - 5: Iris: The Hello World ML Dataset from Scikit-Learn](https://github.com/CodesBay/PyCon2019/blob/master/Chapter%20-%205/%5B5%5D%20-%20The%20Hello%20World%20Dataset.ipynb)
 - [Chapter - 6: Supervised Learning - Linear Regression](https://github.com/CodesBay/PyCon2019/blob/master/Chapter%20-%206/%5B6%5D%20-%20Linear%20Regression.ipynb)
 - [Chapter - 7: Supervised Learning - K-Nearest Neighbour](https://github.com/CodesBay/PyCon2019/blob/master/Chapter%20-%207/%5B7%5D%20-%20K%20Nearest%20Neighbour.ipynb)
